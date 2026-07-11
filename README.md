@@ -1,4 +1,4 @@
-# High Performance-Multi-Level-Approximate-Multiplier-
+# High Performance Approximate Multiplier Design
 
 In digital computing, multiplication is a fundamental yet resource-intensive operation that often creates a bottleneck in high-performance systems. This project evaluates the design philosophy of Approximate Computing, which challenges the conventional need for precise calculations. For error-tolerant applications, the substantial improvements in speed, power efficiency, and area offered by approximate multipliers are considered more valuable than absolute precision. 
 
